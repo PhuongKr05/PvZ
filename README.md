@@ -43,14 +43,21 @@
 
 ## 🕹️ Hướng Dẫn Chơi
 - **Bắt đầu game**: Nhấn `Enter`.
+<img src="image/Starting_Screen.png" width=500>
+
 - **Thu thập Sun**: Click vào Sun rơi hoặc Sun do Sunflower tạo ra.
+  
 - **Trồng cây**:
   - Chọn cây trên thanh công cụ.
   - Click vào ô lưới để trồng (đủ Sun và hết hồi chiêu).
+   
 - **Dùng xẻng**:
   - Click vào icon xẻng (góc dưới trái) ➜ Click vào cây muốn đào.
+    
 - **Chiến thắng**: Tiêu diệt hết zombie của màn chơi.
+ <img src="image/game_completed.png" width=500>
 - **Thua cuộc**: Khi zombie vượt qua hàng phòng thủ.
+  <img src="image/Losing_Message.png" width=500>
 
 ---
 
@@ -69,16 +76,13 @@
 |------------------------------------------------|------------------------------------|
 | <img src="image/Zombie_healthy.png" width="50"> | Ăn cây và tấn công nhà của bạn     |
 | <img src="image/Zombie_Injured.png" width="70"> | Hình dạng của Zombie khi thấp máu  |                                                                                                   
-- 🛠️ **Hệ thống xẻng**:
- <img src="image/Shovel.png" width=50>
+- 🛠️ **Hệ thống xẻng**:<img src="image/Shovel.png" width=50>
   - Đào cây khi cần thay đổi chiến thuật.
     
-- 🌞 **Sun Bar**:
-  <img src="image/sun_bar.png" width=50>
+- 🌞 **Sun Bar**:<img src="image/sun_bar.png" width=100>
   - Hiển thị số lượng Sun hiện có.
     
-- ⏳ **Hồi chiêu**:
-  <img src="image/icon_peashooter_100_dim.png" width=50>
+- ⏳ **Hồi chiêu**:<img src="image/icon_peashooter_100_dim.png" width=100>
   - Mỗi cây có thời gian hồi chiêu riêng, icon mờ khi đang hồi.
 
 ## 🔊 Danh Sách Âm Thanh
