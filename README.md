@@ -54,6 +54,33 @@
 
 ---
 
+## ⏱️ Tính Năng Game
+- 🌻 **Cây trồng**:
+  -Có 3 loại cây trong game:
+
+|                                                                             | Tên cây	     | Chức năng      | Cách chon |
+|-----------------------------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------|-------------------|
+| <img src="image/Peashooter.png" width=50>  | Peashooter	  | Mỗi lần bắn một đậu vào zombie.|Bấm 1 để chọn|                                                             
+| <img src="image/Sunflower.png" width=50>    | Sunflower	   | Tạo thêm mặt trời để trồng cây.|Bấm 2 để chon|                                                                                               
+| <img src="image/Wallnut_body.png" width=50>          | Wallnut	    | Chịu được nhiều phát ăn của zombie để bảo vệ các cây khác.|Bấm 3 để chọn|      
+- 🧟‍♂️ **Zombie**:
+ 
+| Zombie                                         | Chức năng                         |
+|------------------------------------------------|------------------------------------|
+| <img src="image/Zombie_healthy.png" width="50"> | Ăn cây và tấn công nhà của bạn     |
+| <img src="image/Zombie_Injured.png" width="70"> | Hình dạng của Zombie khi thấp máu  |                                                                                                   
+- 🛠️ **Hệ thống xẻng**:
+ <img src="image/Shovel.png" width=50>
+  - Đào cây khi cần thay đổi chiến thuật.
+    
+- 🌞 **Sun Bar**:
+  <img src="image/sun_bar.png" width=50>
+  - Hiển thị số lượng Sun hiện có.
+    
+- ⏳ **Hồi chiêu**:
+  <img src="image/icon_peashooter_100_dim.png" width=50>
+  - Mỗi cây có thời gian hồi chiêu riêng, icon mờ khi đang hồi.
+
 ## 🔊 Danh Sách Âm Thanh
 | Sự kiện             | Âm thanh           |
 |---------------------|--------------------|
@@ -62,25 +89,6 @@
 | Dùng xẻng           | `shovel.mp3`       |
 | Nhặt Sun            | `sun_click.mp3`    |
 | Zombie ăn cây       | `zombie_eating2.mp3` |
-
-## ⏱️ Tính Năng Game
-- 🌻 **Cây trồng**:
-  Có 6 loại cây, lần lượt theo thứ tự có thể nhận được trong game là:
-
-|                                                                             | Tên cây	     | Chức năng      | Cách chon |
-|-----------------------------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------|-------------------|
-| <img src="image/Peashooter.png" width=50>  | Peashooter	  | Mỗi lần bắn một đậu vào zombie.|Bấm 1 để chọn|                                                             
-| <img src="image/Sunflower.png" width=50>    | Sunflower	   | Tạo thêm mặt trời để trồng cây.|Bấm 2 để chon|                                                                                               
-| <img src="image/Wallnut_body.png" width=50>          | Wallnut	    | Chịu được nhiều phát ăn của zombie để bảo vệ các cây khác.|Bấm 3 để chọn|                                                                   
-- 🧟‍♂️ **Zombie**:
-  - Tự động di chuyển từ phải sang trái.
-  - Ăn cây khi gặp.
-- 🛠️ **Hệ thống xẻng**:
-  - Đào cây khi cần thay đổi chiến thuật.
-- 🌞 **Sun Bar**:
-  - Hiển thị số lượng Sun hiện có.
-- ⏳ **Hồi chiêu**:
-  - Mỗi cây có thời gian hồi chiêu riêng, icon mờ khi đang hồi.
 ---
 
 ## 📸 Một Số Hình Ảnh Game
