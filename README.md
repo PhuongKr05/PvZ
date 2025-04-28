@@ -46,14 +46,14 @@
 <img src="image/Starting_Screen.png" width=500>
 
 - **Thu thập Sun**: Click vào Sun rơi hoặc Sun do Sunflower tạo ra.
-  
+  <img src="image/gameplay.png" width=500>
 - **Trồng cây**:
   - Chọn cây trên thanh công cụ.
   - Click vào ô lưới để trồng (đủ Sun và hết hồi chiêu).
-   
+   <img src="image/highlight.png" width=500> 
 - **Dùng xẻng**:
   - Click vào icon xẻng (góc dưới trái) ➜ Click vào cây muốn đào.
-    
+  <img src="image/useshovel.png" width=500>   
 - **Chiến thắng**: Tiêu diệt hết zombie của màn chơi.
  <img src="image/game_completed.png" width=500>
 - **Thua cuộc**: Khi zombie vượt qua hàng phòng thủ.
@@ -94,10 +94,6 @@
 | Nhặt Sun            | `sun_click.mp3`    |
 | Zombie ăn cây       | `zombie_eating2.mp3` |
 ---
-
-## 📸 Một Số Hình Ảnh Game
----
-
 ## ✅ Kế Hoạch Mở Rộng
 - Thêm nhiều loại zombie & cây trồng mới.
 - Cải thiện AI zombie.
