@@ -10,15 +10,18 @@
 - 🎨 **Đồ họa 2D đơn giản, thân thiện**:
   - Sử dụng các hình ảnh icon Peashooter, Sunflower, Walnut, Zombie...
   - Hiển thị thanh Sun, item bar, xẻng, màn hình chiến thắng/thua.
+    
 - 🔊 **Âm thanh sống động với SDL_mixer**:
   - Nhạc nền xuyên suốt game.
   - Hiệu ứng: Bắn đạn, nhặt sun, zombie ăn cây, dùng xẻng đào cây.
+    
 - 🌞 **Cơ chế gameplay**:
   - Thu thập Sun để trồng cây.
   - Ba loại cây: **Peashooter**, **Sunflower**, **Walnut**.
   - Zombie di chuyển và tấn công cây.
   - Xẻng cho phép đào cây nếu trồng nhầm.
   - Hệ thống hồi chiêu cho từng loại cây.
+    
 - 🎯 **Quản lý màn chơi**:
   - Nhiều màn chơi với độ khó tăng dần.
   - Khi thắng: Hiển thị màn hình "Level Completed".
@@ -62,10 +65,13 @@
 
 ## ⏱️ Tính Năng Game
 - 🌻 **Cây trồng**:
-  - **Peashooter**: Bắn đạn hạt đậu vào zombie.
-  <img src="images/Peashooter.png" width=50>
-  - **Sunflower**: Tạo Sun mỗi vài giây.
-  - **Walnut**: Làm lá chắn cho zombie.
+  Có 6 loại cây, lần lượt theo thứ tự có thể nhận được trong game là:
+
+|                                                                             | Tên cây	     | Chức năng      | Cách chon |
+|-----------------------------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------|-------------------|
+| <img src="image/Peashooter.png" width=50>  | Peashooter	  | Mỗi lần bắn một đậu vào zombie.|Bấm 1 để chọn|                                                             
+| <img src="image/Sunflower.png" width=50>    | Sunflower	   | Tạo thêm mặt trời để trồng cây.|Bấm 2 để chon|                                                                                               
+| <img src="image/Wallnut_body.png" width=50>          | Wallnut	    | Chịu được nhiều phát ăn của zombie để bảo vệ các cây khác.|Bấm 3 để chọn|                                                                   
 - 🧟‍♂️ **Zombie**:
   - Tự động di chuyển từ phải sang trái.
   - Ăn cây khi gặp.
