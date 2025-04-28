@@ -63,6 +63,7 @@
 ## ⏱️ Tính Năng Game
 - 🌻 **Cây trồng**:
   - **Peashooter**: Bắn đạn hạt đậu vào zombie.
+  <img src="images/Peashooter.png" width=50>
   - **Sunflower**: Tạo Sun mỗi vài giây.
   - **Walnut**: Làm lá chắn cho zombie.
 - 🧟‍♂️ **Zombie**:
