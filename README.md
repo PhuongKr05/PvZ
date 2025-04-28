@@ -15,12 +15,13 @@
   - Nhạc nền xuyên suốt game.
   - Hiệu ứng: Bắn đạn, nhặt sun, zombie ăn cây, dùng xẻng đào cây.
     
-- 🌞 **Cơ chế gameplay**:
+- 🌞 **Cơ chế gameplay**:   
   - Thu thập Sun để trồng cây.
   - Ba loại cây: **Peashooter**, **Sunflower**, **Walnut**.
   - Zombie di chuyển và tấn công cây.
   - Xẻng cho phép đào cây nếu trồng nhầm.
   - Hệ thống hồi chiêu cho từng loại cây.
+  - Cơ chế kết hợp các phím bấm và chuột để tăng sự linh hoạt cho game thay vì chỉ dùng chuột như bản gốc
     
 - 🎯 **Quản lý màn chơi**:
   - Nhiều màn chơi với độ khó tăng dần.
@@ -99,7 +100,6 @@
 - Cải thiện AI zombie.
 - Thêm menu chính và lưu tiến trình.
 - Hiệu ứng animation mượt hơn.
-
 ---
 
 ## 📜 Giấy Phép
