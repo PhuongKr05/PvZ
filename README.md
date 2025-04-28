@@ -77,13 +77,13 @@
 |------------------------------------------------|------------------------------------|
 | <img src="images/Zombie_healthy.png" width="50"> | Ăn cây và tấn công nhà của bạn     |
 | <img src="images/Zombie_Injured.png" width="70"> | Hình dạng của Zombie khi thấp máu  |                                                                                                   
-- 🛠️ **Hệ thống xẻng**:<img src="image/Shovel.png" width=50>
+- 🛠️ **Hệ thống xẻng**:<img src="images/Shovel.png" width=50>
   - Đào cây khi cần thay đổi chiến thuật.
     
 - 🌞 **Sun Bar**:<img src="images/sun_bar.png" width=100>
   - Hiển thị số lượng Sun hiện có.
     
-- ⏳ **Hồi chiêu**:<img src="image/icon_peashooter_100_dim.png" width=100>
+- ⏳ **Hồi chiêu**:<img src="images/icon_peashooter_100_dim.png" width=100>
   - Mỗi cây có thời gian hồi chiêu riêng, icon mờ khi đang hồi.
 
 ## 🔊 Danh Sách Âm Thanh
