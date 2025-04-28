@@ -44,21 +44,21 @@
 
 ## 🕹️ Hướng Dẫn Chơi
 - **Bắt đầu game**: Nhấn `Enter`.
-<img src="image/Starting_Screen.png" width=500>
+<img src="images/Starting_Screen.png" width=500>
 
 - **Thu thập Sun**: Click vào Sun rơi hoặc Sun do Sunflower tạo ra.
-  <img src="image/gameplay.png" width=500>
+  <img src="images/gameplay.png" width=500>
 - **Trồng cây**:
   - Chọn cây trên thanh công cụ.
   - Click vào ô lưới để trồng (đủ Sun và hết hồi chiêu).
-   <img src="image/highlight.png" width=500> 
+   <img src="images/highlight.png" width=500> 
 - **Dùng xẻng**:
   - Click vào icon xẻng (góc dưới trái) ➜ Click vào cây muốn đào.
-  <img src="image/useshovel.png" width=500>   
+  <img src="images/useshovel.png" width=500>   
 - **Chiến thắng**: Tiêu diệt hết zombie của màn chơi.
- <img src="image/game_completed.png" width=500>
+ <img src="images/game_completed.png" width=500>
 - **Thua cuộc**: Khi zombie vượt qua hàng phòng thủ.
-  <img src="image/Losing_Message.png" width=500>
+  <img src="images/Losing_Message.png" width=500>
 
 ---
 
@@ -68,19 +68,19 @@
 
 |                                                                             | Tên cây	     | Chức năng      | Cách chon |
 |-----------------------------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------|-------------------|
-| <img src="image/Peashooter.png" width=50>  | Peashooter	  | Mỗi lần bắn một đậu vào zombie.|Bấm 1 để chọn|                                                             
-| <img src="image/Sunflower.png" width=50>    | Sunflower	   | Tạo thêm mặt trời để trồng cây.|Bấm 2 để chon|                                                                                               
-| <img src="image/Wallnut_body.png" width=50>          | Wallnut	    | Chịu được nhiều phát ăn của zombie để bảo vệ các cây khác.|Bấm 3 để chọn|      
+| <img src="images/Peashooter.png" width=50>  | Peashooter	  | Mỗi lần bắn một đậu vào zombie.|Bấm 1 để chọn|                                                             
+| <img src="images/Sunflower.png" width=50>    | Sunflower	   | Tạo thêm mặt trời để trồng cây.|Bấm 2 để chon|                                                                                               
+| <img src="images/Wallnut_body.png" width=50>          | Wallnut	    | Chịu được nhiều phát ăn của zombie để bảo vệ các cây khác.|Bấm 3 để chọn|      
 - 🧟‍♂️ **Zombie**:
  
 | Zombie                                         | Chức năng                         |
 |------------------------------------------------|------------------------------------|
-| <img src="image/Zombie_healthy.png" width="50"> | Ăn cây và tấn công nhà của bạn     |
-| <img src="image/Zombie_Injured.png" width="70"> | Hình dạng của Zombie khi thấp máu  |                                                                                                   
+| <img src="images/Zombie_healthy.png" width="50"> | Ăn cây và tấn công nhà của bạn     |
+| <img src="images/Zombie_Injured.png" width="70"> | Hình dạng của Zombie khi thấp máu  |                                                                                                   
 - 🛠️ **Hệ thống xẻng**:<img src="image/Shovel.png" width=50>
   - Đào cây khi cần thay đổi chiến thuật.
     
-- 🌞 **Sun Bar**:<img src="image/sun_bar.png" width=100>
+- 🌞 **Sun Bar**:<img src="images/sun_bar.png" width=100>
   - Hiển thị số lượng Sun hiện có.
     
 - ⏳ **Hồi chiêu**:<img src="image/icon_peashooter_100_dim.png" width=100>
