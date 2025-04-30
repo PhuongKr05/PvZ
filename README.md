@@ -1,7 +1,7 @@
 
 # 🌻 Plants vs Zombies - Phiên Bản Đơn Giản Bằng C++ & SDL2
 
-- Demo game: https://drive.google.com/file/d/1F64JLJqShz9bkouifcpm3giW9urxns0s/view?usp=sharing
+- Demo game: [https://drive.google.com/file/d/1F64JLJqShz9bkouifcpm3giW9urxns0s/view?usp=sharing](https://drive.google.com/drive/folders/1qxL1QUBzNAh68sUjv_8CIX0q3nUnywOs?usp=sharing)
   
 🎮 **Giới thiệu**  
 Đây là phiên bản mô phỏng trò chơi **Plants vs Zombies** nổi tiếng, được lập trình bằng **C++** và sử dụng thư viện **SDL2** cho đồ họa, âm thanh và xử lý sự kiện. Game mang lại trải nghiệm thủ thành vui nhộn với cơ chế trồng cây, bắn zombie quen thuộc.
